@@ -1,0 +1,38 @@
+body {
+	color: #747704;
+	font-family: 'Lato';
+	color: #747704;
+	font-weight: 300;
+
+}
+
+
+/*@media screen and (max-width: 500px) {
+	.col-md-4 > p {
+		display: none;
+
+	}
+
+	.col-md-12 > h1 {
+
+		position: inherit;
+	}
+
+	.col-md-4 > h3 {
+		margin-top: 5px;
+		font-size: 18px
+
+	}
+
+}
+
+@media screen and (max-width: 375px) {
+	h3 {
+		position: absolute;
+	}
+
+	h1 {
+
+		position: absolute;
+	}
+}*/
